@@ -1,0 +1,17 @@
+.container__menu-bar {
+  width: 100%;
+  margin-top: 15px;
+  display: flex;
+  flex-direction: row;
+}
+
+.container__menu-bar ul {
+  width: 100%;
+  list-style-type: none;
+  display: flex;
+  align-items: center;
+}
+
+.container__menu-bar ul > li {
+  margin: 0 10px
+}
