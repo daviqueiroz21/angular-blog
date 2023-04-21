@@ -1,0 +1,9 @@
+.articles {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+.space__article {
+  width: 45%;
+}
