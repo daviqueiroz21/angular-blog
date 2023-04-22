@@ -15,3 +15,9 @@ body{
 a {
   text-decoration: none;
 }
+
+header {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
